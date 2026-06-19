@@ -20,3 +20,5 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+
+Backend/app/routes/model.pth
