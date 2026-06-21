@@ -206,7 +206,6 @@ Example response:
 ```
 
 ---
-
 # 🎯 Future Improvements
 
 * Multi-class ulcer severity classification
@@ -219,14 +218,22 @@ Example response:
 ---
 
 # 📸 Screenshots
+<p align="center">
+  <img src="1.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="2.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="3.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="4.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="5.png" width="100%"/>
+</p>
 
-Add screenshots of:
-
-* Home Page
-* Image Upload
-* Prediction Result
-* Hospital Map
-* API Documentation (Swagger)
 
 ---
 
