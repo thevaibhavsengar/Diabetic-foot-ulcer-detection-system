@@ -131,7 +131,8 @@ Save this file inside:
 
 ```text
 
-Backend/models
+Backend/app/routes/model.pth
+
 # ⚙️ Installation
 
 ## 1. Clone Repository
