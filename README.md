@@ -115,7 +115,7 @@ Open and run:
 
 ```text
 
-modeltrain.ipynb
+DFU_train.ipynb
 
 ```
 
@@ -133,7 +133,9 @@ Save this file inside:
 
 Backend/app/routes/model.pth
 
-# ⚙️ Installation
+```
+
+## ⚙️ Installation
 
 ## 1. Clone Repository
 
