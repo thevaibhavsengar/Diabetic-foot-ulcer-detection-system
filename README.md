@@ -109,7 +109,29 @@ Evaluation metrics include:
 The Vision Transformer achieved the best performance, particularly on imbalanced medical datasets.
 
 ---
+## 🏋️ Train the Model
 
+Open and run:
+
+```text
+
+modeltrain.ipynb
+
+```
+
+After training, the notebook will generate:
+
+```text
+
+model.pth
+
+```
+
+Save this file inside:
+
+```text
+
+Backend/models
 # ⚙️ Installation
 
 ## 1. Clone Repository
