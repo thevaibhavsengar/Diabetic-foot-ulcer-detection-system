@@ -126,7 +126,7 @@ After training, the notebook will generate:
 model.pth
 
 ```
-## Note: Here dataset is taken from Kaggle, you can also use more data from Hospitals or Clinics.
+Note: Here dataset is taken from Kaggle, you can also use more data from Hospitals or Clinics.
 
 Save this file inside:
 
