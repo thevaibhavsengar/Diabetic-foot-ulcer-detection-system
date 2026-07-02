@@ -3,7 +3,7 @@
 An AI-powered **Diabetic Foot Ulcer (DFU) Detection System** that leverages a **Vision Transformer (ViT)** for accurate wound image classification. The project includes a **FastAPI backend** for model inference and a **React (Vite) frontend** for an intuitive user interface. Additionally, it provides **location-based hospital recommendations** using OpenStreetMap and Leaflet.
 
 ---
-## Preview
+## 🖼️ Preview
 <p align="center">
   <img src="dfu.jpeg" width="100%"/>
 </p>
