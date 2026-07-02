@@ -254,6 +254,9 @@ Example response:
   <img src="3.png" width="100%"/>
 </p>
 <p align="center">
+  <img src="dfu.jpeg" width="100%"/>
+</p>
+<p align="center">
   <img src="4.png" width="100%"/>
 </p>
 <p align="center">
