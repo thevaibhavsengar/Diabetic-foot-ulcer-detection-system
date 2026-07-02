@@ -5,7 +5,7 @@ An AI-powered **Diabetic Foot Ulcer (DFU) Detection System** that leverages a **
 ---
 ## Preview
 <p align="center">
-  <img src="1.png" width="100%"/>
+  <img src="dfu.jpeg" width="100%"/>
 </p>
 
 ## 🚀 Features
@@ -249,13 +249,13 @@ Example response:
 
 # 📸 Screenshots
 <p align="center">
+  <img src="1.png" width="100%"/>
+</p>
+<p align="center">
   <img src="2.png" width="100%"/>
 </p>
 <p align="center">
   <img src="3.png" width="100%"/>
-</p>
-<p align="center">
-  <img src="dfu.jpeg" width="100%"/>
 </p>
 <p align="center">
   <img src="4.png" width="100%"/>
